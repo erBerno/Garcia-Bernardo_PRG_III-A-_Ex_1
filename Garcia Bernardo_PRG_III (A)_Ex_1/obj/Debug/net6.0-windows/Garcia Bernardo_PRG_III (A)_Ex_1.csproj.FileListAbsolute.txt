@@ -1,0 +1,21 @@
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.exe
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.deps.json
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.runtimeconfig.json
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\bin\Debug\net6.0-windows\ref\Garcia Bernardo_PRG_III (A)_Ex_1.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.pdb
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.csproj.AssemblyReference.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\App.g.cs
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1_MarkupCompile.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1_MarkupCompile.lref
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.g.resources
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.AssemblyInfoInputs.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.AssemblyInfo.cs
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\ref\Garcia Bernardo_PRG_III (A)_Ex_1.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.pdb
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Ex_1\Garcia Bernardo_PRG_III (A)_Ex_1\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Ex_1.genruntimeconfig.cache
